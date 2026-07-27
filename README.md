@@ -18,7 +18,6 @@
 | 강의 6 | 웹 프로그래밍 기초·심화     | JSP         | `04.jsp/`                                           |
 | 강의 7 | 웹 프로그래밍 기초·심화     | React       | `05.react`                                          |
 | 강의 8 | SpringBoot                  | Java        | `06.SpringBoot`                                     |
-| 강의 9 | .                           | .           | [Repo](https://github.com/lsj1206/thein_springBoot) |
 
 ### React version
 
